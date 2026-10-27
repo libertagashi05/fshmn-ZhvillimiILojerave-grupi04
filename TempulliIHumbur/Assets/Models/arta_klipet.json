@@ -1,0 +1,72 @@
+{
+ "Run": [
+  1,
+  21,
+  true
+ ],
+ "Sprint": [
+  25,
+  41,
+  true
+ ],
+ "JumpUp": [
+  51,
+  59,
+  false
+ ],
+ "JumpAir": [
+  61,
+  73,
+  true
+ ],
+ "JumpFall": [
+  76,
+  88,
+  true
+ ],
+ "Land": [
+  91,
+  101,
+  false
+ ],
+ "SlideIn": [
+  111,
+  119,
+  false
+ ],
+ "SlideLoop": [
+  121,
+  137,
+  true
+ ],
+ "SlideOut": [
+  141,
+  149,
+  false
+ ],
+ "TurnL": [
+  151,
+  163,
+  false
+ ],
+ "TurnR": [
+  171,
+  183,
+  false
+ ],
+ "Hang": [
+  191,
+  211,
+  true
+ ],
+ "Stumble": [
+  221,
+  241,
+  false
+ ],
+ "Death": [
+  251,
+  281,
+  false
+ ]
+}
