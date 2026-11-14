@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4afc11ab18d10e24a8985b672ed72e8a, type: 3}
+  m_Name: Tema_Vullkani
+  m_EditorClassIdentifier: Assembly-CSharp::BotaTema
+  emri: Vullkani
+  mjegulla: {r: 0.32, g: 0.13, b: 0.08, a: 1}
+  mjegullaFillim: 40
+  mjegullaFund: 220
+  ambientQielli: {r: 0.55, g: 0.24, b: 0.15, a: 1}
+  ambientMesi: {r: 0.48, g: 0.2, b: 0.12, a: 1}
+  ambientToka: {r: 0.25, g: 0.08, b: 0.04, a: 1}
+  qielliNgjyra: {r: 0.65, g: 0.16, b: 0.05, a: 1}
+  qielliToka: {r: 0.22, g: 0.07, b: 0.04, a: 1}
+  qielliEkspozimi: 0.85
+  atmosfera: 3
+  madhesiaDiellit: 0.09
+  dielliKendi: {x: 18, y: 220, z: 0}
+  dielliNgjyra: {r: 1, g: 0.52, b: 0.26, a: 1}
+  dielliFuqia: 1.7
+  hijet: 0.85
+  shkelqimLente: 1
+  bloom: 0.75
+  bloomPragu: 0.95
+  vinjeta: 0.35
+  temperatura: 22
+  kontrasti: 26
+  ngopja: 6
+  ekspozimi: 0
+  filtri: {r: 1.05, g: 0.9, b: 0.85, a: 1}
+  guri: {r: 0.42, g: 0.36, b: 0.36, a: 1}
+  guriZbardhje: 0.1
+  guriShkelqim: {r: 0, g: 0, b: 0, a: 1}
+  bimet: {r: 0.32, g: 0.22, b: 0.16, a: 1}
+  ret: {r: 0.55, g: 0.3, b: 0.26, a: 1}
+  uji: 2
+  ujiNgjyra: {r: 1, g: 0.38, b: 0.06, a: 1}
+  grimcat: 3
+  grimcatNgjyra: {r: 3, g: 1.2, b: 0.3, a: 1}
+  grimcatSasia: 90
+  pishtarCdo: 3
+  pishtarDrita: 1.2
+  pengesaTheks: {r: 1.2, g: 2.2, b: 2.8, a: 1}
